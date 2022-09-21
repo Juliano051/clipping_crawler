@@ -1,0 +1,1 @@
+### SCRIPT DE VARREDURA, responsável por buscar os termos nos documentos
